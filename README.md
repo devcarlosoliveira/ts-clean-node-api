@@ -17,6 +17,7 @@
 - [Eslint](https://eslint.org/)
 - [Git-commit-msg-linter](https://github.com/legend80s/commit-msg-linter)
 - [Husky](https://github.com/typicode/husky#readme)
+- [Lint-staged](https://github.com/okonet/lint-staged)
 
 ## Requirements
 
