@@ -29,3 +29,9 @@
 - [Node.js ECMAScript compatibility tables](https://node.green/)
 - [A collection of .gitignore templates](https://github.com/github/gitignore)
 - [Conventional Commits](https://www.conventionalcommits.org/)
+
+## Some commands
+
+```
+npm-check -s -u
+```
